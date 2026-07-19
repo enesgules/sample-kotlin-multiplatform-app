@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=SampleKotlinMultiplatformApp
+PRODUCT_BUNDLE_IDENTIFIER=com.limrun.samples.sample-kotlin-multiplatform-app
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
